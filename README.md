@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, im Niels👋
+# Currently studying MSc in Computer Science at the University of Copenhagen.
 
 <!--
 **Nillerh/Nillerh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
