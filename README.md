@@ -9,7 +9,7 @@
 
 ---
 
-[![Linkedin: nielslundsgaard](https://img.shields.io/badge/nielslundsgaard-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin]
+[![Linkedin: nielslundsgaard](https://img.shields.io/badge/nielslundsgaard-blue?style=flat&logo=Linkedin&logoColor=white)][https://www.linkedin.com/in/nielslundsgaard/]
 
 <!--
 **Nillerh/Nillerh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
