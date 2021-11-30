@@ -7,7 +7,7 @@
 - Currently studying MSc in Computer Science at the University of Copenhagen.
 - My field of specialization is software engineering.
 - While I have an interest in software engineering, I also enjoy IT-security and personal finance. 
-- I'm currently working on a personal website and a website for investing tracking, and a feature that suggest investments based on prior investments. 
+- I'm currently working on a personal website and a website for investing tracking with a feature that suggest investments based on prior investments. 
 
 ---
 
