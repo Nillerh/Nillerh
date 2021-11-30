@@ -1,6 +1,7 @@
-### Hi, im Niels👋
-# Currently studying MSc in Computer Science at the University of Copenhagen.
-
+### Hi, im Niels
+---
+- Currently studying MSc in Computer Science at the University of Copenhagen.
+- My field of specialization is software engineering. 
 <!--
 **Nillerh/Nillerh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
